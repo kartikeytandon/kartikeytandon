@@ -7,25 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/kartikeystwt" target="blank"><img src="https://img.shields.io/twitter/follow/kartikeystwt?logo=twitter&style=for-the-badge" alt="kartikeystwt" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 **Javascript** Developer
 
-- 👨‍💻 All of my projects are available at [https://github.com/kartikeytandon](https://github.com/kartikeytandon)
-
-- 💬 **data structures, css and javascripts**
+- 👨‍💻 **Projects @** [https://github.com/kartikeytandon](https://github.com/kartikeytandon)
 
 - 📫 **tandonkartikey11@gmail.com**
 
-- ⚡ **English Cricket fan**
+- ⚡ **Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kartikeystwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikeystwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kartikey-tandon-526516204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikey-tandon-526516204" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kartikey tandon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kartikey tandon" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kartikey_2979" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kartikey_2979" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tandonkartikey11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tandonkartikey11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tandonkartikey11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tandonkartikey11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tandonkartikey11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tandonkartikey11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
