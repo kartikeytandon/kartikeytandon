@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey Tandon</h1>
-<h3 align="center">A passionate techie from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <img align="right" alt="coding_image" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
@@ -8,8 +8,6 @@
 <p align="left"> <a href="https://twitter.com/kartikeystwt" target="blank"><img src="https://img.shields.io/twitter/follow/kartikeystwt?logo=twitter&style=for-the-badge" alt="kartikeystwt" /></a> </p>
 
 - 🌱 **Javascript** Developer
-
-- 👨‍💻 **Projects @** [https://github.com/kartikeytandon](https://github.com/kartikeytandon)
 
 - 📫 **tandonkartikey11@gmail.com**
 
